@@ -1,0 +1,192 @@
+@import url(fonts.css);
+
+/* Start Edit Bootstarp Framework */
+
+textarea.form-control{
+    height: 160px;
+    text-align: right;
+}
+
+.form-control{
+    text-align: center;
+    padding: 0;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+ /*End Edit Bootstarp Framework */
+
+body
+{
+	background-color: #fff;
+    font-size: 17px;
+    font-family: "DroidKufi-Regular" !important;
+    font-weight: bold;
+    direction: rtl;
+}
+
+#nav ul{
+	margin: auto !important;
+	padding-right: 0
+}
+
+.content{
+	background-color: #fcfcfc !important;
+    border: 2px solid #36bdf8;
+    border-top: 0;
+    border-bottom: 0;
+    min-height: 500px;
+}
+
+.content-warpper .content-header
+{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    box-shadow: 0 3px 3px -3px #999;
+    padding-right:20px;
+}
+
+.content-warpper .content-header span.content-title
+{
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #212d41;
+}
+
+.content-header ul.header-btns
+{
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.content-header h3
+{
+    display: inline-block;
+    color: #686d77;
+    font-size: 15px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.content-header i.fa-chevron-left
+{
+    font-size: 15px;
+}
+
+.content-header ul.header-btns li
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline;
+}
+
+.content-header{
+	border-bottom: 2px solid #36bef9;
+}
+
+
+.footer{
+	background-color: #2d2d2d;
+    padding: 10px;
+    color: #949494;
+}
+
+ /*Table style */
+
+.data-table{
+	margin: 10px 0px;
+}
+
+.data-table tr th
+{
+    background-color: #212d41;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.table tbody tr td{
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+}
+ /*Form Add & Edit Style */
+
+.form-add{
+	width: 57%;
+	margin: auto;
+	margin-top: 20px;
+
+}
+
+ /*start login style */
+.panel-login{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.panel-form{
+    max-width: 700px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+textarea.form-control{
+    height: 160px;
+    text-align: right;
+}
+
+/* end login style */
+
+.logo-img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+/* Forent End Style */
+
+.logo-icon{
+    background-color: rgba(112, 251, 55, 0.54);
+    margin: 0;
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 500px;
+    color: #fff;
+    text-align: center;
+    padding-top: 230px;
+    font-size: 86px;
+}
+
+.link-left a{
+    display: inline-block !important;
+}
+
+.label-vote{
+    text-align: right;
+    padding-right: 10px;
+    border: 0;
+    box-shadow: none;
+    font-size: 16px;
+}
+
+a {
+    border-bottom:0;
+}
+
+.img-vote{
+    height: 160px;
+    width: 160px;
+    float: left;
+    border-radius: 15px;
+}
