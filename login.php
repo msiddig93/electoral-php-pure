@@ -156,7 +156,7 @@
 		    	required 
 		    	value="<?= isset($_POST['FullName']) ? $_POST['FullName'] : '' ?>" 
 		    	id="FullName" 
-		    	class="form-con+trol"
+		    	class="form-control"
 		    	placeholder="الاسم الكامل" 
 		    	>
 		    </div>
